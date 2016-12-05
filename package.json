@@ -1,6 +1,6 @@
 {
   "name": "gulp-webpack-bundle-tracker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Gulp plugin for generating a JSON file similar to webpack-bundle-tracker.",
   "main": "index.js",
   "scripts": {
