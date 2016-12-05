@@ -15,7 +15,8 @@
     "webpack",
     "json",
     "manifest",
-    "gulpplugin"
+    "gulpplugin",
+    "bundle"
   ],
   "author": {
     "name": "Flavio Curella",
