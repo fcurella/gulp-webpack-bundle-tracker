@@ -1,0 +1,42 @@
+{
+  "name": "gulp-webpack-bundle-tracker",
+  "version": "1.0.1",
+  "description": "A Gulp plugin for generating a JSON file similar to webpack-bundle-tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcurella/gulp-webpack-bundle-tracker.git"
+  },
+  "keywords": [
+    "gulp",
+    "webpack",
+    "json",
+    "manifest",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Flavio Curella",
+    "email": "flavio.curella@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fcurella/gulp-webpack-bundle-tracker/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/fcurella/gulp-webpack-bundle-tracker/issues"
+  },
+  "homepage": "https://github.com/fcurella/gulp-webpack-bundle-tracker/",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "gulp-util": "^3.0.7",
+    "mkdirp": "^0.5.1",
+    "slash": "^1.0.0",
+    "jsonfile": "^2.2.3",
+    "through": "^2.3.8"
+  }
+}
